@@ -97,7 +97,7 @@
       "studyType": "MA Candidate",
       "startDate": "2024-09",
       "endDate": "Current",
-      "courses": [""]
+      "courses": ["Intro to Archives", "Community Archives", "Curating from Archives", "Digital Archives"]
     },
     {
       "institution": "Occidental College",
@@ -105,8 +105,7 @@
       "area": "History, Diplomacy and World Affairs",
       "studyType": "B.A.",
       "startDate": "2019-08",
-      "endDate": "2023-05",
-      "courses": [""]
+      "endDate": "2023-05"
     }
   ],
   "languages": [
