@@ -19,7 +19,7 @@
       "position": "Web Archives Assistant",
       "startDate": "2025-06",
       "endDate": "Current",
-      "summary": "Performing quality assurance measured on crawled websites using the Internet Archives' Archive-It service, and implementing solutions for more accurate captures"
+      "summary": "Performing quality assurance measures on crawled websites using the Internet Archives' Archive-It service, and implementing solutions for more accurate captures"
     },
     {
       "name": "NYU Libraries",
@@ -97,7 +97,7 @@
       "studyType": "MA Candidate",
       "startDate": "2024-09",
       "endDate": "Current",
-      "courses": ["Intro to Archives", "Community Archives", "Curating from Archives", "Digital Archives"]
+      "courses": ["Community Archives", "Curating from Archives", "Digital Archives"]
     },
     {
       "institution": "Occidental College",
@@ -130,18 +130,22 @@
       "name": "Digital Archives",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Add",
-        "Keyword",
-        "Here"
+        "Automation and Scripting",
+        "Access and Discovery",
+        "Digital Collections",
+        "Digital Preservation",
+        "Digitization",
+        "Web Archiving"
       ]
     },
     {
       "name": "Digital Scholarship",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Add",
-        "Keyword",
-        "Here"
+        "Minimal Computing",
+        "Open Access and Open Educational Resources",
+        "Static Sites",
+        "Web Accesibility"
       ]
     }
   ]
