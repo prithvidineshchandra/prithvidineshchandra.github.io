@@ -3,8 +3,7 @@
     "name": "Prithvi Dinesh Chandra",
     "label": "Archivist",
     "image": "",
-    "email": "prithvi.dineshchandra@gmail.com",
-    "summary": "2nd year student in NYU Archives and Public History Program"
+    "email": "prithvi.dineshchandra@gmail.com"
   },
   "work": [
     {
@@ -26,21 +25,21 @@
       "position": "Polytechnic Archives Graduate Assistant",
       "startDate": "2025-01",
       "endDate": "2025-05",
-      "summary": ""
+      "summary": "Worked with professors to integrate archive visits & materials in their currciulum. Responded to external and internal archival records requests"
     },
     {
       "name": "Los Angeles County Museum of Art",
       "position": "Registration Administrator",
       "startDate": "2024-03",
       "endDate": "2024-05",
-      "summary": ""
+      "summary": "Reworked large scale acquisitions workflow to improve communication and efficiency between departments"
     },
     {
       "name": "NHMLAC Seaver Center for Western History Research",
       "position": "Archival Assistant",
       "startDate": "2023-01",
       "endDate": "2024-02",
-      "summary": ""
+      "summary": "Identified, described, and digitized the Film Frame Collection which spans the early history of film (1889-1959) and includes rare and unique samples of experimental processes from the time"
     }
   ],
   "internships": [
@@ -49,28 +48,21 @@
       "position":"Collections Intern",
       "startDate":"2025-02",
       "endDate":"2025-04",
-      "summary": ""
+      "summary": "Researched constituent records of Native Americans depicted in online Catlin portrait collection for accuracy and wrote python scripts to automate project workflows"
     },
     {
       "name":"Wende Museum",
       "position":"Collections Intern",
       "startDate":"2024-02",
       "endDate":"2024-04",
-      "summary": ""
+      "summary": "Researched, catalogued, and rehoused 100+ Soviet-era 'x-ray records' (bootleg vinyl records made from x-ray film) and created an identification and preservation guide for staff and researchers"
     },
     {
       "name":"Los Angeles County Museum of Art",
       "position":"Registration and Collections Intern",
       "startDate":"2023-09",
       "endDate":"2023-12",
-      "summary": ""
-    },
-    {
-      "name":"NHMLAC Invertebrate Paleontology",
-      "position":"Research and Collections Intern",
-      "startDate":"2022-05",
-      "endDate":"2022-07",
-      "summary": ""
+      "summary": "Investigated LACMA objects that were missing or unidentified through cross-referencing physical records with TMS database"
     }
   ],
   "projects": [
@@ -78,15 +70,13 @@
       "name": "Digitization & Access Plan - CENTRO Archives",
       "summary": "As a part of HIST-GA 1011 Digital Archives, I collaborated with CENTRO Archives to produce a Digitization & Access Plan for the Community and Activism sub-series of the Ibrahim Gonzalez Papers",
       "startDate": "2025-03",
-      "endDate": "2025-05",
-      "url": "REMINDER: embed pdf here"
+      "endDate": "2025-05"
     },
     { 
       "name": "Record Management Proposal - CAAAV Organizing Asian Communities",
       "summary": "As a part of HIST-GA 2018 Community Archives, I created a record management plan for the digital assets on CAAAV's Google Drive to ensure staff and volunteers could more easily navigate and locate relevant records",
       "startDate": "2024-09",
-      "endDate": "2024-12",
-      "url": "REMINDER: embed pdf here?"
+      "endDate": "2024-12"
     }
   ],
   "education": [
