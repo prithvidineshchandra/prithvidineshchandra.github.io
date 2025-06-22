@@ -115,27 +115,62 @@
         "icon": ""
     }
   ],
-  "interests": [
+  "technical skills": [
     {
-      "name": "Digital Archives",
+      "name": "Content Management Systems",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Automation and Scripting",
-        "Access and Discovery",
-        "Digital Collections",
-        "Digital Preservation",
-        "Digitization",
-        "Web Archiving"
+        "ArchivesSpace",
+        "Axiell EMu",
+        "Mimsy XG",
+        "TMS Collections"
       ]
     },
     {
-      "name": "Digital Scholarship",
+      "name": "Digital Preservation",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Minimal Computing",
-        "Open Access and Open Educational Resources",
-        "Static Sites",
-        "Web Accesibility"
+        "Archivematica",
+        "Archive-It",
+        "OpenRefine"
+      ]
+    },
+    {
+      "name": "Digitization",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Capture One",
+        "Epson Scan Professional",
+        "KryoFlux",
+        "Silverfast"
+      ]
+    },
+    {
+      "name": "Editing",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Adobe Creative Cloud (Photoshop, Illustrator, InDesign",
+        "Adobe Lightroom",
+        "Microsoft Office Suite"
+      ]
+    },
+    {
+      "name": "Languages",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Markdown",
+        "Python",
+        "HTML"
+      ]
+    },
+    {
+      "name": "Web",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "cPanel",
+        "WordPress",
+        "Omeka",
+        "CollectiveAccess"
       ]
     }
   ]
