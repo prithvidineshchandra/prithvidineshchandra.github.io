@@ -17,7 +17,7 @@
       "name": "NYU Libraries",
       "position": "Web Archives Assistant",
       "startDate": "2025-06",
-      "endDate": "Current",
+      "endDate": "2025-08",
       "summary": "Performing quality assurance measures on crawled websites using the Internet Archives' Archive-It service, and implementing solutions for more accurate captures"
     },
     {
@@ -44,7 +44,7 @@
   ],
   "internships": [
     {
-      "name":"New-York Historical",
+      "name":"New York Historical",
       "position":"Collections Intern",
       "startDate":"2025-02",
       "endDate":"2025-04",
@@ -122,6 +122,7 @@
       "keywords": [
         "ArchivesSpace",
         "Axiell EMu",
+        "CollectiveAccess",
         "Mimsy XG",
         "TMS Collections"
       ]
@@ -168,9 +169,9 @@
       "icon": "fa-solid fa-tag",
       "keywords": [
         "cPanel",
+        "Manifold",
         "WordPress",
-        "Omeka",
-        "CollectiveAccess"
+        "Omeka Classic/S"
       ]
     }
   ]
