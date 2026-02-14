@@ -6,6 +6,13 @@
     "email": "prithvi.dineshchandra@gmail.com"
   },
   "work": [
+     {
+      "name": "Film Comment",
+      "position": "Metadata Assistant",
+      "startDate": "2026-02",
+      "endDate": "Current",
+      "summary": "Assisting with the creation, maintenance, and migration of metadata and indexing for Film Comment Magazine's new digital archive"
+    },
     {
       "name": "NYU Libraries",
       "position": "Digital Scholarship Specialist",

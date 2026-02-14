@@ -14,7 +14,7 @@ profile:
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Prithvi (he/him) is a second-year graduate student in NYU's Archives and Public History program. He focuses on digital archives & collections, identifying methods of ensuring access and discoverability for all without sacrificing context and nuance. Currently, he is the Digital Scholarship Specialist in NYU Libraries' Open Knowledge division.
+Prithvi (he/him) is a second-year graduate student in NYU's Archives and Public History program (May 2026 completion). He focuses on digital archives & collections, identifying methods of ensuring access and discoverability for all without sacrificing context and nuance. Currently, he is the Digital Scholarship Specialist in NYU Libraries' Open Knowledge division, and works as the Metadata Assistant for Film Comment Magazine.
  
 Born and raised in Singapore, Prithvi arrived in the United States in 2019 to pursue a B.A. from Occidental College in Los Angeles, and graduated in 2023 with a double-major in History and Diplomacy & World Affairs. He focused on developing archives and museum experience in the subsequent year, interning across multiple instituions in Los Angeles before moving to New York City to pursue an M.A.
 
