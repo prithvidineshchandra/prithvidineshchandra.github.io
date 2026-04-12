@@ -10,15 +10,15 @@
       "name": "Film Comment",
       "position": "Metadata Assistant",
       "startDate": "2026-02",
-      "endDate": "Current",
-      "summary": "Assisting with the creation, maintenance, and migration of metadata and indexing for Film Comment Magazine's new digital archive"
+      "endDate": "2026-05",
+      "summary": "Assist with the creation, maintenance, and migration of metadata and indexing for Film Comment Magazine's new digital archive"
     },
     {
       "name": "NYU Libraries",
       "position": "Digital Scholarship Specialist",
       "startDate": "2025-08",
       "endDate": "2026-05",
-      "summary": "Collaborating on research projects, program development, and providing faculty, students, and staff with technical and service support for digital scholarship"
+      "summary": "Collaborate on research projects, program development, and providing faculty, students, and staff with technical and service support for digital scholarship"
     },
     {
       "name": "NYU Libraries",
@@ -46,7 +46,7 @@
       "position": "Web Archives Assistant",
       "startDate": "2025-05",
       "endDate": "2025-08",
-      "summary": "Performing quality assurance measures on crawled websites using the Internet Archives' Archive-It service, and implementing solutions for more accurate captures"
+      "summary": "Performed quality assurance measures on crawled websites using the Internet Archives' Archive-It service, and implementing solutions for more accurate captures"
     }
   ],
   "internships": [
@@ -93,8 +93,7 @@
       "area": "Archives and Public History",
       "studyType": "M.A. Candidate",
       "startDate": "2024-09",
-      "endDate": "Current",
-      "courses": ["Community Archives", "Curating from Archives", "Digital Archives"]
+      "endDate": "Current"
     },
     {
       "institution": "Occidental College",
