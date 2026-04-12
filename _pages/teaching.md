@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /capstone/
-title: Hybrid Search System
+title: hybrid search system
 description: A description of my Capstone Project for NYU's Archives and Public History MA Program.
 nav: true
 nav_order: 6
