@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-hybrid-search-system",
+          title: "Hybrid Search System",
+          description: "A description of my Capstone Project for NYU&#39;s Archives and Public History MA Program.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/capstone/";
+          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
