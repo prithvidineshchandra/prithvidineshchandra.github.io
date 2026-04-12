@@ -24,7 +24,7 @@ ninja.data = [{
             window.location.href = "/cv/";
           },
         },{id: "nav-hybrid-search-system",
-          title: "Hybrid Search System",
+          title: "hybrid search system",
           description: "A description of my Capstone Project for NYU&#39;s Archives and Public History MA Program.",
           section: "Navigation",
           handler: () => {
