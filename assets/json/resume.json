@@ -74,6 +74,12 @@
   ],
   "projects": [
     {
+      "name": "Hybrid Search System for Digital Archives",
+      "summary": "For my graduate Capstone Project, I built a demo for a Hybrid Search System tailored for digital archives. It combines keyword and semantic search capabilities to enhance collection discoverability without the use of generative AI models.",
+      "startDate": "2025-05",
+      "endDate": "2026-05"
+    },
+    {
       "name": "Digitization & Access Plan - CENTRO Archives",
       "summary": "As a part of HIST-GA 1011 Digital Archives, I collaborated with CENTRO Archives to produce a Digitization & Access Plan for the Community and Activism sub-series of the Ibrahim Gonzalez Papers",
       "startDate": "2025-03",
