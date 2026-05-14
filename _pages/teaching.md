@@ -2,7 +2,7 @@
 layout: page
 permalink: /capstone/
 title: hybrid search system
-description: A description of my Capstone Project for NYU's Archives and Public History MA Program.
+description: A brief description of my Capstone Project for NYU's Archives and Public History MA Program.
 nav: true
 nav_order: 6
 ---
@@ -28,4 +28,4 @@ The top candidates from the hybrid scoring step are passed through a cross-encod
                             
 This multi-stage approach captures both the *intent* behind the query and the *specific terms* used, producing more relevant results than either method alone.
 
-*This project is currently under closed beta testing to ensure data privacy. To request access, please contact prithvi.dineshchandra@gmail.com or pdc307@nyu.edu*
+[Github Repository](https://github.com/prithvidineshchandra/Hybrid-Search-System) | [Project Site](https://huggingface.co/spaces/Prith-vi/hybrid-search-system-demo)
