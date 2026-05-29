@@ -116,7 +116,7 @@
     {
       "name": "Algorithms and Archives: AI And Historical Research",
       "summary": "Presented to NYU’s History Department on the potential use-cases and dangers of AI and Machine Learning in online search systems for archives and libraries.",
-      "Date" : "2026-04"
+      "endDate" : "2026-04"
     },
     {
       "name" : "EcStatic Magic: Static Sites for Digital Humanities Projects",
