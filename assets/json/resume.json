@@ -1,16 +1,16 @@
 {
   "basics": {
     "name": "Prithvi Dinesh Chandra",
-    "label": "Archivist",
+    "label": "",
     "image": "",
     "email": "prithvi.dineshchandra@gmail.com"
   },
   "work": [
      {
-      "name": "Film Comment",
-      "position": "Metadata Assistant",
+      "name": "Film at Lincoln Center",
+      "position": "Film Comment Metadata Specialist",
       "startDate": "2026-02",
-      "endDate": "2026-05",
+      "endDate": "2026-09",
       "summary": "Assist with the creation, maintenance, and migration of metadata and indexing for Film Comment Magazine's new digital archive"
     },
     {
@@ -72,39 +72,78 @@
       "summary": "Investigated LACMA objects that were missing or unidentified through cross-referencing physical records with TMS database"
     }
   ],
-  "projects": [
+  "course projects": [
     {
-      "name": "Hybrid Search System for Digital Archives",
-      "summary": "For my graduate Capstone Project, I built a demo for a Hybrid Search System tailored for digital archives. It combines keyword and semantic search capabilities to enhance collection discoverability without the use of generative AI models.",
+      "name": "Hybrid Search System for Digital Archives - MA Capstone",
+      "summary": "Created a demo for a search system that combines traditional keyword searches with semantic searches to increase the accessibility and discoverability of archival records without using resource-intensive Generative AI",
       "startDate": "2025-05",
+      "endDate": "2026-05",
+      "url" : "https://huggingface.co/spaces/Prith-vi/hybrid-search-system-demo"
+    },
+    {
+      "name": "Film Frame Collection Grant Proposal - Intro to Preservation and Reformatting",
+      "summary": "Wrote a grant proposal for the digitization and preservation of the Seaver Center’s Film Frame Collection",
+      "startDate": "2026-02",
       "endDate": "2026-05"
     },
     {
-      "name": "Digitization & Access Plan - CENTRO Archives",
-      "summary": "As a part of HIST-GA 1011 Digital Archives, I collaborated with CENTRO Archives to produce a Digitization & Access Plan for the Community and Activism sub-series of the Ibrahim Gonzalez Papers",
-      "startDate": "2025-03",
+      "name": "Pauline Leader Papers, 1930-2020 - Advanced Archival Description",
+      "summary": "Processed this collection at Columbia’s Rare Book & Manuscript Library as a class over the course of a semester",
+      "startDate": "2025-09",
+      "endDate": "2025-12",
+      "url": "https://findingaids.library.columbia.edu/archives/cul-19766916"
+    },
+    {
+      "name": "Ibrahim González Papers Digitization and Access Plan",
+      "summary": "Created a comprehensive digitization and access plan for the A/V materials of this collection housed at CENTRO Archives",
+      "startDate": "2025-02",
+      "endDate": "2025-05"
+    },
+    {
+      "name": "It’s Only Art: An Archival Exhibition - Curating from Archives",
+      "summary": "Curated a class-led exhibition focused on the late 20th century art and artists of Creative Time, with materials selected from the NYU Special Collections’ Downtown Collection",
+      "startDate": "2025-02",
       "endDate": "2025-05"
     },
     { 
-      "name": "Record Management Proposal - CAAAV Organizing Asian Communities",
-      "summary": "As a part of HIST-GA 2018 Community Archives, I created a record management plan for the digital assets on CAAAV's Google Drive to ensure staff and volunteers could more easily navigate and locate relevant records",
+      "name": "CAAAV Organizing Asian Communities Record Management Plan",
+      "summary": "Developed a new records management plan for CAAAV’s online database to ensure smoother volunteer and intern contributions to the digital archive",
       "startDate": "2024-09",
       "endDate": "2024-12"
+    }
+  ],
+  "workshops": [
+    {
+      "name": "Algorithms and Archives: AI And Historical Research",
+      "summary": "Presented to NYU’s History Department on the potential use-cases and dangers of AI and Machine Learning in online search systems for archives and libraries.",
+      "Date" : "2026-04"
+    },
+    {
+      "name" : "EcStatic Magic: Static Sites for Digital Humanities Projects",
+      "summary" : "Taught attendees about how to use static sites in their personal and professional digital projects",
+      "startDate" : "2025-05",
+      "endDate" : "2026-05"
+    },
+    {
+      "name" : "Digital Without Tears: Quick & Easy Tools for Digital Humanities",
+      "summary" : "Taught attendees about simple digital humanities tools (e.g. KnightLab suite) that would enhance their digital projects",
+      "startDate" : "2025-05",
+      "endDate" : "2026-05"
     }
   ],
   "education": [
     {
       "institution": "New York University",
       "location": "New York City, NY",
-      "area": "Archives and Public History",
-      "studyType": "M.A. Candidate",
+      "area": "Archives and Public History (Archives Concentration)",
+      "studyType": "M.A.",
       "startDate": "2024-09",
-      "endDate": "Current"
+      "endDate": "2026-05"
     },
     {
       "institution": "Occidental College",
       "location": "Los Angeles, CA",
-      "area": "History, Diplomacy and World Affairs",
+      "area": "History, Diplomacy & World Affairs",
       "studyType": "B.A.",
       "startDate": "2019-08",
       "endDate": "2023-05"
