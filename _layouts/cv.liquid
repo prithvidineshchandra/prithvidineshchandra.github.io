@@ -99,8 +99,8 @@ layout: default
                   {% include resume/work.liquid %}
                 {% when 'volunteer' %}
                   {% include resume/volunteer.liquid %}
-                {% when 'projects' %}
-                  {% include resume/projects.liquid %}
+                {% when 'course projects' %}
+                  {% include resume/courseprojects.liquid %}
                 {% when 'internships' %}
                   {% include resume/internships.liquid %}
                 {% when 'skills' %}
@@ -115,6 +115,8 @@ layout: default
                   {% include resume/certificates.liquid %}
                 {% when 'references' %}
                   {% include resume/references.liquid %}
+                {% when 'workshops' %}
+                  {% include resume/workshops.liquid %}
                 {% else %}
 
               {% endcase %}

@@ -639,7 +639,8 @@ jsonresume:
   - work
   - education
   - publications
-  - projects
+  - course projects
+  - workshops
   - volunteer
   - internships
   - certificates
