@@ -72,7 +72,7 @@
       "summary": "Investigated LACMA objects that were missing or unidentified through cross-referencing physical records with TMS database"
     }
   ],
-  "projects": [
+  "course projects": [
     {
       "name": "Hybrid Search System for Digital Archives - MA Capstone",
       "summary": "Created a demo for a search system that combines traditional keyword searches with semantic searches to increase the accessibility and discoverability of archival records without using resource-intensive Generative AI",
